@@ -18,9 +18,7 @@ This project was done in 2 hours. I am a beginner and this is my first CSS and H
 ### Screenshot
 ![](screenshot(1).png)
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:live site]( https://ugochianoka.github.io/QR-component/)
 ### Built with
 
 - Semantic HTML5 markup
@@ -29,7 +27,7 @@ This project was done in 2 hours. I am a beginner and this is my first CSS and H
 I learnt how to center a div.
 ### Useful resources
 
-- [Example resource 1](https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/) - This helped me to sentre my div.. I really liked this pattern and will use it going forward.
+- [Example resource 1](https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/) - This helped me to centre my div. I really liked this pattern and will use it going forward.
 ## Author
 
 - Website - [Ugochi Anoka](https://www.your-site.com)
