@@ -1,0 +1,33 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    background-color: white;
+    text-align:center;
+    width:250px;
+    height:380px;
+    border-radius: 5%;
+    margin-top: 140px;
+}
+img{
+    width:220px;
+    height:220px;
+    margin-top: 15px;
+    border-radius: 5%;
+}
+p{
+    font-size: 15px;
+    font-weight: 700;
+    text-align: center;
+    margin: 10px 30px 10px 30px;
+    font-family: 'Outfit', sans-serif;
+color:hsl(218, 44%, 22%);
+}
+.ish{
+    font-weight: 400;
+    font-size: 11px ;
+    color:hsl(220, 15%, 55%);
+}
