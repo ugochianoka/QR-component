@@ -30,6 +30,6 @@ I learnt how to center a div.
 - [Example resource 1](https://www.freecodecamp.org/news/css-vertical-align-how-to-center-a-div-text-or-an-image-example-code/) - This helped me to centre my div. I really liked this pattern and will use it going forward.
 ## Author
 
-- Website - [Ugochi Anoka](https://www.your-site.com)
+- Website - [Ugochi Anoka](https://ugochianoka.github.io/my-website/)
 - Frontend Mentor - [@ugochianoka](https://www.frontendmentor.io/profile/ugochianoka)
 - Twitter - [@ugochianoka](https://www.twitter.com/ugochianoka)
